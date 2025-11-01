@@ -17,7 +17,7 @@
 ---
 
 ### 🧠 Skills & Technologies
-**Languages:** C++, Python, Java, JavaScript, PHP  
+**Languages:** C++, Python, Java, JavaScript, PHP ,HTML, CSS 
 **Frameworks:** Laravel, Django, React  
 **Databases:** MySQL, PostgreSQL  
 **Tools:** GitHub, Linux, RESTful APIs, OOP, Bootstrap, Tailwind CSS  
@@ -28,9 +28,9 @@
 
 | Project | Description | Stack |
 |----------|--------------|-------|
-| 🏥 [Hospital Management System](https://github.com/AbdallahNaser/hospital-system) | Backend system for hospital operations with RESTful APIs | Laravel, MySQL |
-| 🤝 [Charity Crowdfunding Platform](https://github.com/AbdallahNaser/charity-platform) | Full-stack donation system with authentication & async emails | Django REST, React, PostgreSQL |
-| 🎓 [Courses Website](https://github.com/AbdallahNaser/courses-website) | Online learning platform with video streaming & quizzes | Laravel, Bootstrap, JS |
+| 🏥 [Hospital Management System] | Backend system for hospital operations with RESTful APIs | Laravel, MySQL |
+| 🤝 [Charity Crowdfunding Platform]| Full-stack donation system with authentication & async emails | Django REST, React, PostgreSQL |
+| 🎓 [Courses Website]| Online learning platform with video streaming & quizzes | Laravel, Bootstrap, JS |
 
 ---
 
@@ -51,4 +51,4 @@
 
 ---
 
-⭐ **“Building, mentoring, and growing — one project at a time.”**
+⭐ **“Building, mentoring, and growing ”**
