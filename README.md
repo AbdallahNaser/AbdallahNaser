@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-🎓 I'm a **Computer Science graduate** from **Assiut University (2020–2024)**  
+🎓 I have a **Bachelor Degree in Computer Science (2020–2024)**  
 👨‍💻 Trained at **ITI (Full-Stack Web Development, Feb–June 2025)**  
 💼 Currently:
 - **Session Lead @ Udacity** (2025 – Present)
@@ -17,22 +17,13 @@
 ---
 
 ### 🧠 Skills & Technologies
-**Languages:** C++, Python, Java, JavaScript, PHP ,HTML, CSS 
+**Languages:** C++, Python, Java, JavaScript, PHP , HTML, CSS
 **Frameworks:** Laravel, Django, React  
 **Databases:** MySQL, PostgreSQL  
 **Tools:** GitHub, Linux, RESTful APIs, OOP, Bootstrap, Tailwind CSS  
 
 ---
 
-### 🛠️ Projects
-
-| Project | Description | Stack |
-|----------|--------------|-------|
-| 🏥 [Hospital Management System] | Backend system for hospital operations with RESTful APIs | Laravel, MySQL |
-| 🤝 [Charity Crowdfunding Platform]| Full-stack donation system with authentication & async emails | Django REST, React, PostgreSQL |
-| 🎓 [Courses Website]| Online learning platform with video streaming & quizzes | Laravel, Bootstrap, JS |
-
----
 
 ### 🏆 Achievements
 🏅 Ranked **25th out of 200 teams** in **ICPC ECPC 2022**  
