@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdallah Naser</h1>
-<h3 align="center">💻 Full-Stack Developer | Laravel | Django | React | RESTful APIs</h3>
+<h3 align="center">💻 Full-Stack Developer - Session Lead @ Udacity</h3>
 
 ---
 
